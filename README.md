@@ -1,4 +1,4 @@
-OpenCart 2.x
+OpenCart 2.3.x
 ======
 Модуль оплаты Payeer
 
